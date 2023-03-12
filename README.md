@@ -14,7 +14,4 @@ Express.js, is a back end web application framework for building RESTful APIs wi
 
 
 ## Tech Stack
-
-**Client:** JavaScript
-
-**Server:** Node.js, Express.js
+Express.js, Node.js
